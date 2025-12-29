@@ -1,0 +1,10 @@
+torch
+torchcrf
+transformers
+huggingface_hub
+requests
+beautifulsoup4
+numpy
+nltk
+scikit-learn
+contractions
